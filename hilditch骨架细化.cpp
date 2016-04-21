@@ -1,4 +1,4 @@
-#include "d:/include/imgpro.h"
+#include "include/imgpro.h"
 
 int main(int argc, char**argv)
 {
